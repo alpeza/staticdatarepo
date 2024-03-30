@@ -2,12 +2,12 @@
     "name": "Peris Lab Token",
     "symbol": "PRISTKN",
     "description": "Token de laboratorio para uso demostrativo",
-    "image": "https://arweave.net/6mWNNDYKbn06pj9_2LxpMZA-g78F7XEPdnAdNm87vI4?ext=png",
+    "image": "https://raw.githubusercontent.com/alpeza/staticdatarepo/main/c1/perislab.png",
     "attributes": [],
     "properties": {
       "files": [
         {
-          "uri": "https://arweave.net/6mWNNDYKbn06pj9_2LxpMZA-g78F7XEPdnAdNm87vI4?ext=png",
+          "uri": "https://raw.githubusercontent.com/alpeza/staticdatarepo/main/c1/perislab.png",
           "type": "image/png"
         }
       ]
